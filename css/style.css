@@ -67,7 +67,7 @@ a:hover {
 }
 
 #cabecalho {
-
+  font-family: 'Netflix Sans Regular', sans-serif;
   box-sizing: border-box;
   text-shadow: 1px 1px 1px black;
   height: 70px;
